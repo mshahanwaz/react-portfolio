@@ -1,7 +1,7 @@
 # Personal Porfolio Site in REACTJS
 Decent portfolio with contact form and good UI/UX
 
-## Link: [here](https://mshahanwaz-porfolio.netlify.app)
+## Link: [here](https://mshahanwaz-portfolio.netlify.app)
 
 ## Library & Hosting:
 - ReactJS
