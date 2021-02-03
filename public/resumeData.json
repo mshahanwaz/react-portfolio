@@ -60,38 +60,47 @@
     "skills": [
       {
         "name": "HTML5",
+        "url": "html.png",
         "level": "93%"
       },
       {
         "name": "CSS3",
+        "url": "css.png",
         "level": "70%"
       },
       {
         "name": "JavaScript",
+        "url": "js.png",
         "level": "80%"
       },
       {
         "name": "ReactJs",
+        "url": "react.png",
         "level": "70%"
       },
       {
         "name": "Firebase",
+        "url": "firebase.png",
         "level": "82%"
       },
       {
         "name": "Git",
+        "url": "git.png",
         "level": "70%"
       },
       {
         "name": "Web Development",
+        "url": "web.png",
         "level": "90%"
       },
       {
         "name": "C++",
+        "url": "cpp.png",
         "level": "85%"
       },
       {
         "name": "CP",
+        "url": "cp.png",
         "level": "70%"
       }
     ]

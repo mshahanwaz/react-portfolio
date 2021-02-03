@@ -32,7 +32,10 @@ const Resume = ({ data }) => {
       return (
         <li key={skills.name}>
           <span style={{ width: skills.level }} className={className}></span>
-          <em>{skills.name}</em>
+          <div className="skills-icons">
+            <img className="skills-icon" src={"images/" + skills.url} alt="hello" />
+            <em>{skills.name}</em>
+          </div>
         </li>
       );
     });

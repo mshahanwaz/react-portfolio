@@ -347,7 +347,8 @@ ul#nav li.current a {
   letter-spacing: 2px;
   font-weight: normal;
   position: relative;
-  top: -36px;
+  top: -45px;
+  left: 10px;
 }
 .bar-expand {
   position: absolute;
@@ -1117,4 +1118,15 @@ footer .social-links li:first-child {
 }
 #go-top a:hover {
   background-color: #3d1cb8;
+}
+
+.responsive-headline span div span {
+  font-size: 90%;
+}
+
+.skills-icon {
+  position: relative;
+  top: -36px;
+  width: 30px;
+  object-fit: contain;
 }
