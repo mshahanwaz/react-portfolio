@@ -4,9 +4,9 @@
     "occupation": "Developer With COFFEE",
     "description": "Keep learning ReactJS with ☕",
     "image": "profilepic.jpg",
-    "bio": "Hi there, my name is Shahanwaz and I am coding for more than 3 years and developing my skills to become a full stack developer with a package more than $100k per annum. I used to do part-time coding while I was completing my schooling and my life was boring but the day when I saw Sonny Sangha aka PAPA REACT making some awesome clones using ReactJS with ease and fun, my whole career had took to different level. Now, my ambitions are more than before just because of Sonny. I really want to thank to him for providing such contents to the community for FREE! Thank You very much dude, hope you cross 1M subscribers just from INDIA.",
+    "bio": "I am Shahanwaz, a web developer, designer and content creator. I like to do coding and making projects and always ready to learn new technology and frameworks. My tech stack includes HTML, CSS, JS, ReactJS, MongoDB, NodeJS, ExpressJS, Firebase and still adding new techs. When I am not building any app, then I used to found myself doing and improving the data structures and algorithms by competing in coding competitions like CodeChef, CodeForces etc.",
     "contactmessage": "Get in touch with me for more updates",
-    "email": "mohdshahanwaz110@gmail.com",
+    "email": "mohdshahanwaz55@gmail.com",
     "phone": "+91 8802182176",
     "address": {
       "street": "Jharoda, Burari",
@@ -46,7 +46,7 @@
         "school": "National Institute of Technology, Delhi",
         "degree": "B.Tech., Computer Science",
         "graduated": "August 2019 - present",
-        "description": "Currently pursuing B.Tech. in CSE branch. Looking for internships to increase my skills to next level."
+        "description": "Currently pursuing B.Tech. in CSE branch. Looking for internships to develop my skills to next level."
       }
     ],
     "work": [
@@ -54,7 +54,7 @@
         "company": "Developer With COFFEE",
         "title": "Founder and CEO",
         "years": "January 2021 - present",
-        "description": "Provides content related to Web Development and Data Structures & Algorithm(DSA)"
+        "description": "Provides content related to Web Development Tips and Competitive Programming"
       }
     ],
     "skills": [
@@ -160,12 +160,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Shahanwaz is absolutely excellent, his depth of knowledge & his cooperative behavior with each one of us really meant a lot to us... I would definitely recommend him",
-        "user": "Elon Musk"
+        "text": "The way he writes code is 100% readable and understandable.",
+        "user": "Senior College Student"
       },
       {
-        "text": "Shahanwaz is the master of all web development courses present rn. The way he delivers his experience is mind-blowing.",
-        "user": "Anonymous"
+        "text": "This dude is awesome for its perfectionness",
+        "user": "Colleagues"
       }
     ]
   }
